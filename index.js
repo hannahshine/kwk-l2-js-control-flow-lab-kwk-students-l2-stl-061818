@@ -15,12 +15,6 @@ function ternaryCheckCity(city){
   return city === "NYC" ? "Ok, sounds good." : "No go."
 }
 
-var switchOnCharmFromTip = document.getElementById("generous").value;
-switch("generous"){
-  case:generous";
-  text="Thank you so much.";
-  case:"not as generous";
-  text="Thank you.";"
-  
+
   
 }
