@@ -21,7 +21,7 @@ function switchOnCharmFromTip(generosityOfTip) {
       return "Thank you so much.";
     case "not as generous":
       return "Thank you.";
-    case "if anything else":
+    default "if anything else":
       return "Bye.";
   }
 }
