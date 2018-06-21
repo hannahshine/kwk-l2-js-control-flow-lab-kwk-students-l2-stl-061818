@@ -17,10 +17,10 @@ function ternaryCheckCity(city){
 
 var switchOnCharmFromTip = document.getElementById("generous").value;
 switch("generous"){
-  case:"generous";
+  case:generous";
   text="Thank you so much.";
   case:"not as generous";
-  text="Thank you.";
+  text="Thank you.";"
   
   
 }
